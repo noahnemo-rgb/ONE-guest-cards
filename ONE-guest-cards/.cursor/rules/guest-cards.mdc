@@ -1,0 +1,25 @@
+---
+description: ONE Guest Cards — file-only parallel refine, this repo only
+alwaysApply: true
+---
+
+You are editing a roster of sheathed guest cards.
+This repo is files only. It is not a runtime and not an invite.
+
+Rules
+- One role per card. fusion: false. standing: sheathed-guest.
+- Allowed backends only: Puter.js, OpenRouter BYOK, Google AI Studio, NVIDIA Build.
+- No secrets. No keys. No hostnames from another plane.
+- Customer words: named helper, sheathed guest. Never workshop ranks.
+- Selecting or copying a card is not identity fusion.
+- Do not invite. HITL invites later, one card into one product.
+- The example card in cards/examples/ is a shape, not a guest.
+
+Parallel refine
+1. Read REGISTRY.md
+2. Open N cards
+3. Apply SCHEMA.md rubric
+4. Update status, review_by, and the registry row
+5. Stop. HITL commits.
+
+If a sentence would only be true because of another workshop’s secret, cert, or port, delete it.
