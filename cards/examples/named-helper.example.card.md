@@ -17,7 +17,7 @@ review_by: 2026-12-11
 
 ## Purpose
 
-This file shows the card shape. It is not a guest. It is not invited.
+This file shows the HASEOS card shape. It is not a guest. It is not invited.
 
 ## May
 

@@ -18,7 +18,7 @@ review_by: 2026-12-11
 
 ## Purpose
 
-One sentence: what this helper does for a person using a ONE product.
+One sentence: what this HASEOS sheathed guest helper does for a person using a ONE product.
 
 ## May
 

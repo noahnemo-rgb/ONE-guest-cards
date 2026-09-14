@@ -1,6 +1,8 @@
 # ONE Guest Cards — parallel refine schema
 
-Plane: saas. Files only. Not a runtime. Not an invite.
+Plane: haseos-roster. Files only. Not a runtime. Not an invite.
+
+These are HASEOS sheathed guest cards. A card is a file. Invitation is a later HITL act.
 
 A card is a markdown file. Many cards may be revised in one Cursor slice.
 Selecting a card ≠ fusion. Copying a card into a product ≠ fusion.
@@ -75,6 +77,6 @@ Fail any one item and the card stays `draft` or moves to `refused` / `deferred`.
 3. Apply the rubric to each.
 4. Update frontmatter dates and status.
 5. Update the registry row.
-6. HITL commits and pushes from the Lenovo.
+6. HITL commits and pushes from the clone.
 
 Do not invite from a refine slice. Invite is a separate HITL sentence naming one card and one product.

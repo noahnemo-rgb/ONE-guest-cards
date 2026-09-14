@@ -1,13 +1,13 @@
 # ONE Guest Cards
 
-Parallel refine schema for sheathed guest helpers.
+HASEOS sheathed-guest roster. Parallel refine schema for named helpers.
 
 This repository is a **roster and a workshop**. It holds markdown cards, a refine rubric, and a registry. It is not a runtime. It is not an invite. It is not the public stamp.
 
 The public rule lives in a different repo: [ONE-trust-colophon](https://github.com/noahnemo-rgb/ONE-trust-colophon). Copy that stamp into products. Copy **one ready card** into a product only when HITL invites that helper onto that product.
 
-Plane: `saas`  
-Edition: `2026-09-12`  
+Plane: `haseos-roster`  
+Edition: `2026-09-14`  
 Steward: Noah Nemo
 
 ## Why this is a second repo
@@ -30,7 +30,7 @@ Only `ready` cards may be copied. Only HITL moves a card to `invited`.
 
 ## Parallel refine
 
-One Cursor slice may open N cards, apply `SCHEMA.md`, and update `REGISTRY.md`. That is the parallelism: many files, one review pass. No local model farm. No third-party operator runtime on this laptop.
+One Cursor slice may open N cards, apply `SCHEMA.md`, and update `REGISTRY.md`. That is the parallelism: many files, one review pass. No local model farm. No third-party operator runtime. HITL commits and pushes from the clone.
 
 ## Tree
 

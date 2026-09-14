@@ -1,5 +1,7 @@
 # Registry
 
+HASEOS sheathed-guest roster. Example row is not an invite.
+
 One row per card. Status is the source of truth until HITL says otherwise.
 
 | id | slug | display_name | vendor | status | fusion | invite_scope | review_by |
