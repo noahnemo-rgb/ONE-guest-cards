@@ -34,6 +34,8 @@ One Cursor slice may open N cards, apply `SCHEMA.md`, and update `REGISTRY.md`. 
 
 ## Tree
 
+Files live at the repository root, not in a nested folder.
+
 ```text
 SCHEMA.md                 fields + rubric
 REGISTRY.md               one row per card
