@@ -31,6 +31,8 @@ Only HITL moves a card to `invited`.
 
 ## Card fields
 
+REGISTRY.md columns must match these fields: id, slug, display_name, vendor, standing, status, fusion, invite_scope, review_by.
+
 ```yaml
 id: ogc-YYYYMMDD-slug
 slug: kebab-case

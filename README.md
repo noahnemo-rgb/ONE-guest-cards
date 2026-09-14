@@ -38,7 +38,7 @@ Files live at the repository root, not in a nested folder.
 
 ```text
 SCHEMA.md                 fields + rubric
-REGISTRY.md               one row per card
+REGISTRY.md               one row per card; standing column required.
 cards/_template.card.md
 cards/examples/named-helper.example.card.md
 reviews/                  dated refine notes (optional)
