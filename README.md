@@ -2,6 +2,8 @@
 
 HASEOS sheathed-guest roster. Parallel refine schema for named helpers.
 
+This repository is a roster of markdown files. It is not a live agent, not a keeper, and not a set of invited inferences. Invitation is a later HITL act on one product. The example card is a shape only and is not invitable.
+
 This repository is a **roster and a workshop**. It holds markdown cards, a refine rubric, and a registry. It is not a runtime. It is not an invite. It is not the public stamp.
 
 The public rule lives in a different repo: [ONE-trust-colophon](https://github.com/noahnemo-rgb/ONE-trust-colophon). Copy that stamp into products. Copy **one ready card** into a product only when HITL invites that helper onto that product.

@@ -2,6 +2,8 @@
 
 HASEOS sheathed-guest roster. Example row is not an invite.
 
+No row is invited until HITL sets status to invited and names a product in products_invited.
+
 One row per card. Status is the source of truth until HITL says otherwise.
 
 ## How to add a row
