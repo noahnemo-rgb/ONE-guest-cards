@@ -6,6 +6,9 @@ This repository is a roster of markdown files. It is not a live agent, not a kee
 
 This repository is a **roster and a workshop**. It holds markdown cards, a refine rubric, and a registry. It is not a runtime. It is not an invite. It is not the public stamp.
 
+Law-as-files (first formal draft, unratified): https://github.com/noahnemo-rgb/HASEOS-IDAO
+This pack is a roster of files, not the Constitution.
+
 The public rule lives in a different repo: [ONE-trust-colophon](https://github.com/noahnemo-rgb/ONE-trust-colophon). Copy that stamp into products. Copy **one ready card** into a product only when HITL invites that helper onto that product.
 
 Plane: `haseos-roster`  
