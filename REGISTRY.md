@@ -18,5 +18,6 @@ One row per card. Status is the source of truth until HITL says otherwise.
 | id | slug | display_name | vendor | standing | status | fusion | invite_scope | review_by |
 |---|---|---|---|---|---|---|---|---|
 | ogc-20260912-named-helper-example | named-helper-example | Named helper (example) | — | sheathed-guest | draft | false | [] | 2026-12-11 |
+| ogc-idea-forge-niche-scout | idea-forge-niche-scout | Idea Forge Niche Scout | OpenAI (API-compatible harness) | sheathed-guest | draft | false | [] | 2026-12-14 |
 
 Never put secrets in this table.

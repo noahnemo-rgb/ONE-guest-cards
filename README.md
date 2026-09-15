@@ -46,9 +46,12 @@ SCHEMA.md                 fields + rubric
 REGISTRY.md               one row per card; standing column required.
 cards/_template.card.md
 cards/examples/named-helper.example.card.md
+cards/idea-forge-niche-scout.card.md
 reviews/                  dated refine notes (optional)
 .cursor/rules/guest-cards.mdc
 ```
+
+First draft card exists; not invitable until HITL sets ready then invited.
 
 ## Allowed backends on a card
 
